@@ -52,15 +52,15 @@ a {
 }
 
 a:hover {
-  color: grey;
+  color: rgb(250, 99, 99);
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(255, 0, 0);
 }
 
 .logo {
   font-size: 2rem;
-  color: red;
+  color: rgb(0, 0, 0);
   font-weight: 700;
 }
 
@@ -192,13 +192,20 @@ section {
 }
 
 .section__text__p2 {
-  font-size: 1.75rem;
+  font-size: 1.50rem;
   margin-bottom: 1rem;
+  
 }
 
 .title {
   font-size: 3rem;
-  text-align: center;
+  text-align: center; 
+}
+.title:hover{
+    color: rgb(250, 99, 99);
+    text-decoration:none;
+    transition-duration: 1s;
+    text-decoration-color: rgb(255, 0, 0);
 }
 
 #socials-container {
