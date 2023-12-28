@@ -164,13 +164,13 @@ section {
   height: 80vh;
 }
 
-.section__pic-container {
+.pic-container {
   display: flex;
   height: 400px;
   width: 400px;
   margin: auto 0;
 }
-.section__pic-container img{
+.pic-container img{
   border-radius: 250px;
   background-color: antiquewhite;
 }
@@ -244,7 +244,7 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(255, 0, 0);
+  background: rgb(0, 0, 0);
   color: white;
 }
 
@@ -299,7 +299,6 @@ section {
   padding: 1.5rem;
   flex: 1;
   background-color:antiquewhite;
-  border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
@@ -310,7 +309,7 @@ section {
   height: 80%;
 }
 
-.section__pic-container {
+.pic-container {
   height: 400px;
   width: 400px;
   margin: auto 0;
@@ -322,10 +321,11 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: rgb(255, 0, 0);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
+  letter-spacing: 1px;
 }
 
 .experience-details-container {
@@ -372,7 +372,7 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: rgb(255, 0, 0);
 }
 
 .project-btn {
@@ -390,7 +390,6 @@ article .icon {
 .contact-info-upper-container {
   display: flex;
   justify-content: center;
-  border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   background: (250, 250, 250);
