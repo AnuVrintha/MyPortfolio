@@ -175,12 +175,12 @@ section {
   background-color: antiquewhite;
 }
 
-.section__text {
+.text {
   align-self: center;
   text-align: center;
 }
 
-.section__text p {
+.text p {
   font-weight: 600;
 }
 
