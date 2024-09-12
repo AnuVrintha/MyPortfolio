@@ -1,2 +1,2 @@
 # MyPortfolio
-Portfolio Link https://tangerine-stardust-55ed7b.netlify.app/
+Portfolio Link https://anuvrintha.netlify.app
