@@ -1,2 +1,2 @@
 # MyPortfolio
-Portfolio Link https://anuvrintha.netlify.app
+Portfolio Link https://ranuvrintha.netlify.app
